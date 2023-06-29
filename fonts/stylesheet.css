@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Futura Md BT';
+    src: url('FuturaBT-Bold.eot');
+    src: url('FuturaBT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('FuturaBT-Bold.woff2') format('woff2'),
+        url('FuturaBT-Bold.woff') format('woff'),
+        url('FuturaBT-Bold.ttf') format('truetype'),
+        url('FuturaBT-Bold.svg#FuturaBT-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
